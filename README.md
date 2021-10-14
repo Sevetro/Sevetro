@@ -9,6 +9,6 @@ weather-app and backend-shop are projects for recruitment procesess
 
 umiej-w-muzyke is a complete music app for your smartphone that lets you play on virtual guitar and check out every chord
 
-musicator is my current project, it's an app to create music beats and loops.
+musicator is my current project, it's an app to create musical beats and loops.
 
 chords-scales is just an npm package that helps you with, you won't believe, chords and scales. (not yet finished)
