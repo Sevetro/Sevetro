@@ -3,7 +3,12 @@
 - 💞️ I’m looking to collaborate with nice projects including music field
 - 📫 You can reach me by email: lukaszgil7@gmail.com
 
-<!---
-Sevetro/Sevetro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Plese check out some of the projects below.
+
+weather-app and backend-shop are projects for recruitment procesess
+
+umiej-w-muzyke is a complete music app for your smartphone that lets you play on virtual guitar and check out every chord
+
+musicator is my current project, it's an app to create music beats and loops.
+
+chords-scales is just an npm package that helps you with, you won't believe, chords and scales. (not yet finished)
